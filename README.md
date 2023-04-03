@@ -8,7 +8,6 @@ More interesting projects: - https://github.com/IT-Mikita
 ### Use
 ```
 $ git clone https://github.com/IT-Mikita/Async-Book-Parsing.git
-$ cd clickers/
 $ pip install -r requirements.txt
 $ python main.py
 ```
